@@ -1,5 +1,7 @@
 ### Olá, Mundo!
 
+![](https://komarev.com/ghpvc/?username=Auguxto&style=flat-square&label=Visitas&color=7159c1)
+
 <br>
 
 ### Tecnologias
