@@ -10,7 +10,7 @@
     </td>
     <td width="14.28%" align="center">
       <span>TypeScript</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      <img height="64px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">
     </td>
     <td width="14.28%" align="center">
       <span>React</span><br><br><br>
