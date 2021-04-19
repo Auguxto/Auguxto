@@ -30,3 +30,5 @@
 ![Auguxto Statistics](https://github-readme-stats.vercel.app/api?username=Auguxto&show_icons=true&icon_color=7159c1&bg_color=0D1117&hide_border=true&text_color=fff&title_color=7159c1&custom_title=Auguxto&include_all_commits=true)
 
 [![Auguxto Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auguxto&layout=compact&show_icons=true&icon_color=7159c1&bg_color=0D1117&hide_border=true&text_color=fff&title_color=7159c1&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
+
+![coração](https://user-images.githubusercontent.com/62861636/110835114-264c7580-827d-11eb-9fef-e8ac9fe51714.png)
