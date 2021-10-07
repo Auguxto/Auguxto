@@ -1,6 +1,6 @@
 ### Olá, Mundo!
 
-![](https://komarev.com/ghpvc/?username=Auguxto&style=flat-square&label=Visitas&color=7159c1)
+![](https://komarev.com/ghpvc/?username=Auguxtoo&style=flat-square&label=Visitas&color=7159c1)
 
 <br>
 
