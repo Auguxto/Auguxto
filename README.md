@@ -2,8 +2,6 @@
 
 <br>
 
-<img style="margin: 0 auto" src="https://user-images.githubusercontent.com/62861636/211938518-abea15fc-6d5f-4e74-b8d6-81d9dd9a116f.gif" />
-
 ![](https://komarev.com/ghpvc/?username=Auguxtoo&style=flat-square&label=Visitas&color=7159c1)
 
 Meu Portfólio (Building) [https://victoraugusto.vercel.app/](https://victoraugusto.vercel.app/)
