@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Auguxtoo&style=flat-square&label=Visitas&color=7159c1)
 
-Meu Portfólio (Building) [https://victoraugusto.vercel.app/](https://victoraugusto.vercel.app/)
+Meu Portfólio (Building) [https://auguxto.github.io/](https://auguxto.github.io/)
 
 ### Tecnologias
 
